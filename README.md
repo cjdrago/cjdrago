@@ -2,14 +2,13 @@
 
 My name is Cris, I'm a software engineer student with a double degree in industrial engineering. I’m passionate about tech development and the great impact it could have if we use it in the right way and put it at disposal of society.
 
-I have developed knowledge and domain mainly in data science and software development. I love learning new things and challenging myself for improvement in a complete way, both professionally and personally. 
-
 💡 I’m currently learning: saxophone, french, and Next.js.
 
-### Technologies
-
-
-
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nexj](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
  
 <!--
 **cjdrago/cjdrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
