@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Cris, I'm a software engineer student with a double degree in industrial engineering. I’m passionate about tech development and the great impact it could have if we use it in the right way and put it at disposal of society.
+
+I have developed knowledge and domain in topics like automation, data science, software development, and machine learning. Also, I love learning new things and challenging myself for improvement in a complete way, both professionally and personally.
+
 <!--
 **cjdrago/cjdrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
