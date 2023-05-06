@@ -9,7 +9,7 @@ My name is Cris, I'm a software engineer student with a double degree in industr
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nexj](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- 
+ ![Tf](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 <!--
 **cjdrago/cjdrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
