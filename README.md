@@ -3,6 +3,7 @@
 My name is Cris, I'm a software engineer student with a double degree in industrial engineering. I’m passionate about tech development and the great impact it could have if we use it in the right way and put it at disposal of society.
 
 ⚙️ My native language is Python, but i can talk JavaScript, C, and some Java as well. 
+
 💡 I’m currently learning: saxophone, french, AWS, and Next.js.
 
 ## Technologies
