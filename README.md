@@ -3,6 +3,7 @@
 My name is Cris, I'm a software engineer student with a double degree in industrial engineering. I’m passionate about tech development and the great impact it could have if we use it in the right way and put it at disposal of society.
 
 I have developed knowledge and domain mainly in data science and software development. I love learning new things and challenging myself for improvement in a complete way, both professionally and personally. 
+
 💡 I’m currently learning: saxophone, french, and Next.js.
 
 ### Technologies
