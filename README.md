@@ -2,9 +2,9 @@
 
 My name is Cris, I'm a software engineer student with a double degree in industrial engineering. I’m passionate about tech development and the great impact it could have if we use it in the right way and put it at disposal of society.
 
-💡 I’m currently learning: saxophone, french, and Next.js.
+💡 I’m currently learning: saxophone, french, Docker, and Next.js.
 
-## Skills
+## Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nexj](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
