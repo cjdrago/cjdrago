@@ -14,6 +14,7 @@ My name is Cris, I'm a software engineer student with a double degree in industr
  ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
  ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
  ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ 
  [![My Skills](https://skillicons.dev/icons?i=selenium,mysql,&perline=5)](https://skillicons.dev)
 <!--
 **cjdrago/cjdrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
