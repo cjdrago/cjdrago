@@ -7,8 +7,14 @@ My name is Cris, I'm a software engineer student with a double degree in industr
 💡 I’m currently learning: saxophone, french, AWS, and Next.js.
 
 ## Technologies
- [![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,next,python,tensorflow,selenium,,mongodb,mysql,aws,&perline=4)](https://skillicons.dev)
- 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nexj](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+ ![Tf](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+ ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+ ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ [![My Skills](https://skillicons.dev/icons?i=selenium,mysql,&perline=5)](https://skillicons.dev)
 <!--
 **cjdrago/cjdrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
