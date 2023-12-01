@@ -4,7 +4,7 @@ My name is Cris, I'm a AWS Intern. I’m passionate about tech development and t
 
 ⚙️ My native language is Python, but i can talk JavaScript, C, and some Java as well. 
 
-💡 I’m currently learning: french, AWS, and GenAI with Amazon.
+💡 I’m currently learning: french, AWS, and GenAI.
 
 ## Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
