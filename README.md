@@ -1,10 +1,10 @@
 ### Hi there 😁
 
-My name is Cris, I'm a software engineer student with a double degree in industrial engineering. I’m passionate about tech development and the great impact it could have if we use it in the right way and put it at disposal of society.
+My name is Cris, I'm a AWS Intern. I’m passionate about tech development and the great impact it could have if we use it in the right way and put it at disposal of society.
 
 ⚙️ My native language is Python, but i can talk JavaScript, C, and some Java as well. 
 
-💡 I’m currently learning: saxophone, french, AWS, and Next.js.
+💡 I’m currently learning: french, AWS, and GenAI with Amazon.
 
 ## Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
